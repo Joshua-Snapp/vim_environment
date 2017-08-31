@@ -1,0 +1,8 @@
+*.swp
+plugged/
+undodir/
+sessions/
+doc/
+autoload/
+plugin/
+after/
